@@ -1,0 +1,6 @@
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Description.txt
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll.config
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.pdb
+C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.dll
+C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.pdb

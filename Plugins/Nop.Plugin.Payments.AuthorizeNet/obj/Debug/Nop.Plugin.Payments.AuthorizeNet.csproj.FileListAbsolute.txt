@@ -1,0 +1,6 @@
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Description.txt
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.dll.config
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.dll
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.pdb
+C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.dll
+C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.pdb

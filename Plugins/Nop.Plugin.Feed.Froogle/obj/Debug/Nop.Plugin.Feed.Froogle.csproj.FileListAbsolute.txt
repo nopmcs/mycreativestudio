@@ -1,0 +1,6 @@
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Feed.Froogle\Description.txt
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Feed.Froogle\Content\styles.css
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.pdb
+C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.dll
+C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.pdb

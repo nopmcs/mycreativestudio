@@ -1,0 +1,5 @@
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Shipping.USPS\Description.txt
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.dll
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.pdb
+C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.dll
+C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.pdb

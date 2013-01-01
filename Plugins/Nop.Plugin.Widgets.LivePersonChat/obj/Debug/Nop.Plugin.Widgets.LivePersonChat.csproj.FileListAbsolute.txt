@@ -1,0 +1,5 @@
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Widgets.LivePersonChat\Description.txt
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Widgets.LivePersonChat\Nop.Plugin.Widgets.LivePersonChat.dll
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Widgets.LivePersonChat\Nop.Plugin.Widgets.LivePersonChat.pdb
+C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.Widgets.LivePersonChat\obj\Debug\Nop.Plugin.Widgets.LivePersonChat.dll
+C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.Widgets.LivePersonChat\obj\Debug\Nop.Plugin.Widgets.LivePersonChat.pdb

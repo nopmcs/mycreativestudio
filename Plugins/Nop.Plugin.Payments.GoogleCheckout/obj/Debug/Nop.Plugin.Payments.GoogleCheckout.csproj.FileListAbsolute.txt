@@ -1,0 +1,6 @@
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Payments.GoogleCheckout\Description.txt
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Payments.GoogleCheckout\Nop.Plugin.Payments.GoogleCheckout.dll
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Payments.GoogleCheckout\Nop.Plugin.Payments.GoogleCheckout.pdb
+C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.Payments.GoogleCheckout\obj\Debug\Nop.Plugin.Payments.GoogleCheckout.csprojResolveAssemblyReference.cache
+C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.Payments.GoogleCheckout\obj\Debug\Nop.Plugin.Payments.GoogleCheckout.dll
+C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.Payments.GoogleCheckout\obj\Debug\Nop.Plugin.Payments.GoogleCheckout.pdb

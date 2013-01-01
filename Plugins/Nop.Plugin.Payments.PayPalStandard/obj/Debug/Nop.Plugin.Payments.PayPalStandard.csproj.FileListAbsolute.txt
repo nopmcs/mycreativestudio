@@ -1,0 +1,5 @@
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Description.txt
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
+C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.dll
+C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.pdb

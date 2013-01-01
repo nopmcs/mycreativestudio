@@ -1,0 +1,5 @@
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Description.txt
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.dll
+C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.pdb
+C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.dll
+C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.pdb
