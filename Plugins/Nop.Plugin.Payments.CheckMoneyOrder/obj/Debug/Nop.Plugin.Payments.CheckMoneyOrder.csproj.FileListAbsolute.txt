@@ -1,5 +1,5 @@
-C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Description.txt
-C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll
-C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.pdb
-C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.dll
-C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.pdb
+C:\bhumip_pro\nopCommerce_2.70_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Description.txt
+C:\bhumip_pro\nopCommerce_2.70_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll
+C:\bhumip_pro\nopCommerce_2.70_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.pdb
+C:\bhumip_pro\nopCommerce_2.70_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.dll
+C:\bhumip_pro\nopCommerce_2.70_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.pdb

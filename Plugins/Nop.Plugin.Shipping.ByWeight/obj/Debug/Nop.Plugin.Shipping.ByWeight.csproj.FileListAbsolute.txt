@@ -1,5 +1,5 @@
-C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Description.txt
-C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.dll
-C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.pdb
-C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.dll
-C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.pdb
+C:\bhumip_pro\nopCommerce_2.70_Source\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Description.txt
+C:\bhumip_pro\nopCommerce_2.70_Source\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.dll
+C:\bhumip_pro\nopCommerce_2.70_Source\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.pdb
+C:\bhumip_pro\nopCommerce_2.70_Source\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.dll
+C:\bhumip_pro\nopCommerce_2.70_Source\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.pdb

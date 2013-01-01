@@ -1,5 +1,5 @@
-C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Description.txt
-C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Nop.Plugin.ExchangeRate.McExchange.dll
-C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Nop.Plugin.ExchangeRate.McExchange.pdb
-C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.dll
-C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.pdb
+C:\bhumip_pro\nopCommerce_2.70_Source\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Description.txt
+C:\bhumip_pro\nopCommerce_2.70_Source\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Nop.Plugin.ExchangeRate.McExchange.dll
+C:\bhumip_pro\nopCommerce_2.70_Source\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Nop.Plugin.ExchangeRate.McExchange.pdb
+C:\bhumip_pro\nopCommerce_2.70_Source\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.dll
+C:\bhumip_pro\nopCommerce_2.70_Source\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.pdb

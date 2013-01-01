@@ -1,6 +1,5 @@
-C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Description.txt
-C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.dll
-C:\bhumip_pro\mycreativestudio\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.pdb
-C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csprojResolveAssemblyReference.cache
-C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.dll
-C:\bhumip_pro\mycreativestudio\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.pdb
+C:\bhumip_pro\nopCommerce_2.70_Source\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Description.txt
+C:\bhumip_pro\nopCommerce_2.70_Source\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.dll
+C:\bhumip_pro\nopCommerce_2.70_Source\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.pdb
+C:\bhumip_pro\nopCommerce_2.70_Source\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.dll
+C:\bhumip_pro\nopCommerce_2.70_Source\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.pdb
