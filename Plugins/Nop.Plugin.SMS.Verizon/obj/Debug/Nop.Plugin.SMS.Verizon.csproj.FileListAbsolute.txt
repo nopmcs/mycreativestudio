@@ -1,5 +1,0 @@
-C:\bhumip_pro\nopCommerce_2.70_Source\Presentation\Nop.Web\Plugins\SMS.Verizon\Description.txt
-C:\bhumip_pro\nopCommerce_2.70_Source\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.Verizon.dll
-C:\bhumip_pro\nopCommerce_2.70_Source\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.Verizon.pdb
-C:\bhumip_pro\nopCommerce_2.70_Source\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.dll
-C:\bhumip_pro\nopCommerce_2.70_Source\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.pdb

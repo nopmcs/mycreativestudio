@@ -1,5 +1,0 @@
-C:\bhumip_pro\nopCommerce_2.70_Source\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Description.txt
-C:\bhumip_pro\nopCommerce_2.70_Source\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.dll
-C:\bhumip_pro\nopCommerce_2.70_Source\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.pdb
-C:\bhumip_pro\nopCommerce_2.70_Source\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.dll
-C:\bhumip_pro\nopCommerce_2.70_Source\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.pdb

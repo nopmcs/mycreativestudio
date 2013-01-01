@@ -1,5 +1,0 @@
-C:\bhumip_pro\nopCommerce_2.70_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Description.txt
-C:\bhumip_pro\nopCommerce_2.70_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
-C:\bhumip_pro\nopCommerce_2.70_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
-C:\bhumip_pro\nopCommerce_2.70_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.dll
-C:\bhumip_pro\nopCommerce_2.70_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.pdb
