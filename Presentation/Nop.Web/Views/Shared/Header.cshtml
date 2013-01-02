@@ -1,8 +1,6 @@
 ﻿<div class="header">
     @Html.Widget("header")
-    <div class="header-logo">
-        <a href="@Url.RouteUrl("HomePage")" class="logo">&nbsp; </a>
-    </div>
+    
     <div class="header-links-wrapper">
         @Html.Action("HeaderLinks", "Common")
         @Html.Action("FlyoutShoppingCart", "ShoppingCart")
@@ -11,9 +9,9 @@
         <div class="tax-display-type-selector">
             @Html.Action("TaxTypeSelector", "Common")
         </div>
-        <div class="currency-selector">
+        @*<div class="currency-selector">
             @Html.Action("CurrencySelector", "Common")
-        </div>
+        </div>*@
         <div class="language-selector">
             @Html.Action("LanguageSelector", "Common")
         </div>

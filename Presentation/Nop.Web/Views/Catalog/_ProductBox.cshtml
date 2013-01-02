@@ -21,9 +21,9 @@
             <img alt="@Model.DefaultPictureModel.AlternateText" src="@Model.DefaultPictureModel.ImageUrl" title="@Model.DefaultPictureModel.Title" />
         </a>
     </div>
-    <div class="description">
+    @*<div class="description">
         @Html.Raw(Model.ShortDescription)
-    </div>
+    </div>*@
     <div class="add-info">
         <div class="prices">
             @if (!String.IsNullOrEmpty(Model.ProductPrice.OldPrice))

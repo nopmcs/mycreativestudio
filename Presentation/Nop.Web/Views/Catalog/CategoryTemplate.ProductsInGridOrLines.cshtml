@@ -112,7 +112,15 @@
             </div>
         }
         @Html.Widget("categorydetails_after_featured_products")
-        @*view mode*@
+        @*currency mode*@
+        @if (Model.Products.Count > 0)
+        {
+            <div class="currency-viewmode">
+                <span>Change currency</span>
+                @Html.Action("CurrencySelector", "Common")
+            </div>        
+        }
+        @*view mode*@        
         @if (Model.PagingFilteringContext.AllowProductViewModeChanging && Model.Products.Count > 0)
         {
             <div class="product-viewmode">
@@ -136,11 +144,14 @@
                 <span>@T("Categories.PageSize.PerPage")</span>
             </div>
         }
+        
         <div class="clear">
         </div>
-        @Html.Widget("categorydetails_before_filters")
+        <hr />
+        @*PRICE FILTER*@
+        @*@Html.Widget("categorydetails_before_filters")*@
         @*filtering*@
-        @if (Model.PagingFilteringContext.PriceRangeFilter.Enabled ||
+       @* @if (Model.PagingFilteringContext.PriceRangeFilter.Enabled ||
         Model.PagingFilteringContext.SpecificationFilter.Enabled)
         {
             <div class="product-filters">
@@ -162,7 +173,7 @@
             </div>
             <div class="clear">
             </div>
-        }
+        }*@
         @Html.Widget("categorydetails_before_product_list")
         @*product list*@
         @if (Model.Products.Count > 0)
@@ -183,7 +194,7 @@
             {
             @*grid mode*@
             <div class="product-grid">
-                @(Html.DataList<ProductOverviewModel>(Model.Products, 2,
+                @(Html.DataList<ProductOverviewModel>(Model.Products, 4,
                         @<div class="item-box">
                             @Html.Partial("_ProductBox", item)
                         </div>

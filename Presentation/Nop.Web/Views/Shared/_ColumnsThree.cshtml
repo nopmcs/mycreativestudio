@@ -40,10 +40,10 @@
         <div class="clear">
         </div>
         @Html.Action("CategoryNavigation", "Catalog", new { currentCategoryId = currentCategoryId, currentProductId = currentProductId })
-        <div class="clear">
+        @*<div class="clear">
         </div>
         @Html.Action("ManufacturerNavigation", "Catalog", new { currentManufacturerId = currentManufacturerId })
-        <div class="clear">
+        *@<div class="clear">
         </div>
         @Html.Action("PopularProductTags", "Catalog")
         <div class="clear">
@@ -62,7 +62,7 @@
     @RenderBody()
     @Html.Widget("main_column_after")
 </div>
-<div class="master-wrapper-rightside-3">
+@*<div class="master-wrapper-rightside-3">
     @if (IsSectionDefined("right"))
     {
         @RenderSection("right")
@@ -83,4 +83,4 @@
         </div>
         @Html.Widget("right_side_column_after")
     }
-</div>
+</div>*@

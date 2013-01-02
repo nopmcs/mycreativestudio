@@ -1,14 +1,14 @@
 ﻿@model FooterModel
 @using Nop.Web.Models.Common;
 <div class="footer">
-    <div class="footer-poweredby">
+    @*<div class="footer-poweredby">
         Powered by <a href="http://www.nopcommerce.com/">nopCommerce</a>
         <!--Would you like
                 to remove the "Powered by nopCommerce" link in the bottom of the footer? Find more
                 info here http://www.nopcommerce.com/copyrightremoval.aspx -->
-    </div>
+    </div>*@
     <div class="footer-disclaimer">
-        @T("Content.CopyrightNotice", DateTime.Now.Year.ToString(), Model.StoreName)
+        @T("Content.CopyrightNotice", DateTime.Now.Year.ToString(), Model.StoreName), Powered by <a href="http://www.nopcommerce.com/">nopCommerce</a>
     </div>
     <div class="footer-store-theme">
         @Html.Action("StoreThemeSelector", "Common")
