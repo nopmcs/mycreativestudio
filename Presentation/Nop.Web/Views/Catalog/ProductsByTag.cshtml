@@ -46,6 +46,7 @@
         }
         <div class="clear">
         </div>
+        <hr />
         @Html.Widget("productsbytag_before_product_list")
         @*product list*@
         @if (Model.Products.Count > 0)
@@ -66,7 +67,7 @@
             {
             @*grid mode*@
             <div class="product-grid">
-                @(Html.DataList<ProductOverviewModel>(Model.Products, 2,
+                @(Html.DataList<ProductOverviewModel>(Model.Products, 4,
                     @<div class="item-box">
                         @Html.Partial("_ProductBox", item)
                     </div>
