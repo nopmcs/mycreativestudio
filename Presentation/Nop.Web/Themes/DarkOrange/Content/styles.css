@@ -277,9 +277,9 @@ a.eu-cookie-privacyinfo-tag{color:#F93 !important;text-decoration:underline;}
 .estimate-shipping .shipping-options .shipping-option-item .option-description{padding:5px 0 5px 16px;}
 
 /* CHECKOUT */
-.checkout-page,.checkout-one-page{}
+.checkout-page,.checkout-one-page{width:1070px;}
 .checkout-page .page-title,.checkout-one-page .page-title{border-bottom:0 none;}
-.checkout-page .checkout-data,.checkout-one-page .checkout-data{margin:0;padding:0;font-size:11px;color:#555;background-color:inherit;}
+.checkout-page .checkout-data,.checkout-one-page .checkout-data{margin:0;padding:0;font-size:11px;color:#555;background-color:inherit;font-size:13px}
 .checkoutstep{}
 .checkoutstep .steptitle{border:1px solid #2F4F4F;color:#FFF;background-color:#2E4d7B;font-family:Arial, Sans-Serif;font-size:12px;font-weight:700;padding:5px;margin-top:5px;}
 .checkoutstep .stepcontent{border:dashed 1px #2F4F4F;border-top:none;padding:5px;}
@@ -294,6 +294,10 @@ a.eu-cookie-privacyinfo-tag{color:#F93 !important;text-decoration:underline;}
 .checkout-data .enter-address-title{padding:10px 10px 5px 0;font-weight:700;clear:both;}
 .checkout-data .enter-address{text-align:center;margin:10px;border:1px solid #d7d7d7;height:auto;}
 .checkout-data .enter-address .enter-address-body{text-align:left;margin:10px;}
+
+.checkout-data .enter-address .enter-address-body table {background:lightgray;  }
+.checkout-data .enter-address .enter-address-body table td{padding:3px; }
+
 .checkout-data .enter-address .buttons{margin:10px;text-align:left;}
 .checkout-data .enter-address .the-same-address{text-align:left;margin:10px;}
 .checkout-data .shipping-options{text-align:left;margin:10px;border:1px solid #d7d7d7;height:auto;}
@@ -326,13 +330,13 @@ a.eu-cookie-privacyinfo-tag{color:#F93 !important;text-decoration:underline;}
 .order-progress ul li .inactive-step{color:#d7d7d7;background:url(images/progress-step-inactive.gif) no-repeat 50% 50%;padding-bottom:40px;padding-right:1px;}
 
 /* ONE PAGE CHECKOUT */
-.opc .buttons{margin-top:0;padding-top:2em;}
+.opc .buttons{margin-top:0;padding-top:0em;}
 .opc .buttons .back-link small{display:none;}
 .opc .buttons .back-link a{background:url(images/arrow-up.png) 0 50% no-repeat;padding-left:20px;}
 .opc .buttons.disabled button{display:none;}
 .opc .buttons .please-wait{height:21px;line-height:21px;}
 .opc .ul{list-style:disc outside; padding-left:18px;}
-.opc ul, .opc ol, ul.opc, ol.opc{list-style:none outside none;width:980px}
+.opc ul, .opc ol, ul.opc, ol.opc{list-style:none outside none;width:995px}
 .opc {position:relative;}
 .opc li.section{}
 .opc .step-title{border-width:0 1px;border-style:solid;border-color:#fff #d9dde3 #d9dde3;background:#eee 0 100% repeat-x;padding:4px 8px 6px;text-align:right;}
